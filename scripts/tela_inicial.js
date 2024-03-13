@@ -1,1 +1,0 @@
-document.getElementById("tela_inicial").style.display = "block";
